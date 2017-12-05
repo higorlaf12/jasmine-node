@@ -6,4 +6,8 @@ describe("Suite de teste de exemplo com NodeJs",function () {
     it("Deve escutar a entrada ",function () {
         expect(1).toEqual(1);
     });
+
+    it(function () {
+        
+    });
 });
